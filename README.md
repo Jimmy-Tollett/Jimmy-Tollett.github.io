@@ -1,4 +1,5 @@
 # Jimmy-Tollett.github.io
 
 Websites:
-- http://jtollett.me/Guess-The-Line/
+- **Portfolio**: http://jtollett.me/
+- **Guess the line**: http://jtollett.me/Guess-The-Line/
